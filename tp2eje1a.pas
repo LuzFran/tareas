@@ -1,3 +1,5 @@
+{ utilizando el programa pascal, hacer un programa que lea el valor de X 
+y escriba el Ln(x), si es negativo o nulo, el cuadrado de X}
 program tp2eje1a;
 
 var x: integer;
