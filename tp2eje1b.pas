@@ -1,4 +1,5 @@
-{}
+{utilizando el programa pascal, hacer un programa que lea el valor de X 
+y escriba "+1" si es positivo, "0" si es nulo y "-1" si es negativo}
 program tp2eje1b;
 
 uses crt;
